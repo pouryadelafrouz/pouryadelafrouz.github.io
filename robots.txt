@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://https://pouryadelafrouz.github.io//sitemap.xml
+Sitemap: https://pourydelafrouz.github.io//sitemap.xml
