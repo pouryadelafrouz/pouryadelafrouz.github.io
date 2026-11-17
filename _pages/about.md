@@ -6,7 +6,7 @@ subtitle: "Postdoctoral Researcher | <a href='https://www.foxchase.org/'>Fox Cha
 
 profile:
   align: right
-  image: img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Fox Chase Cancer Center</p>
