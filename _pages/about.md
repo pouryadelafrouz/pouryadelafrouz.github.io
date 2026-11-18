@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-I am a Postdoctoral Researcher at <a href="https://www.foxchase.org/">Fox Chase Cancer Center</a>, working with <a href="https://comp-epi-lee-lab.org/">Dr. Hayan Lee</a>. I earned my Ph.D. in Biomedical Engineering, specializing in Bioinformatics, from the <a href="https://www.uic.edu/">University of Illinois Chicago</a>, under the mentorship of <a href="https://bme.uic.edu/profiles/jie-liang-phd/">Dr. Jie Liang and <a href="https://bme.uic.edu/profiles/ao-ma-phd-2/">Dr. Ao Ma. I also hold an M.S. and a B.S. in Mechanical Engineering.
+I am a Postdoctoral Researcher at <a href="https://www.foxchase.org/">Fox Chase Cancer Center</a>, working with <a href="https://comp-epi-lee-lab.org/">Dr. Hayan Lee</a>. I earned my Ph.D. in Biomedical Engineering, specializing in Bioinformatics, from the <a href="https://www.uic.edu/">University of Illinois Chicago</a>, under the mentorship of <a href="https://bme.uic.edu/profiles/jie-liang-phd/">Dr. Jie Liang</a> and <a href="https://bme.uic.edu/profiles/ao-ma-phd-2/">Dr. Ao Ma</a>. I also hold an M.S. and a B.S. in Mechanical Engineering.
 
 
 My research lies at the intersection of computational genomics, biophysics, and epigenomics, focusing on how genome organization and epigenetic regulation influence cellular function, aging, and cancer. I integrate computational modeling, polymer physics, high-throughput sequencing, and statistical analysis to investigate genome architecture across bacterial, nuclear, and mitochondrial systems.
