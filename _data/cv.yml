@@ -65,27 +65,21 @@ cv:
       date: Fall 2020, 2021, 2022, 2023
       highlights:
       - Designed assignments and computational problems using CGAL and GUDHI.
-  
     - company: Sharif University of Technology
       position: Teaching Assistant — Numerical Analysis
       date: Fall 2015
-  
     - company: Shiraz University
       position: Teaching Assistant — Automatic Control
       date: Spring 2013
-  
     - company: Shiraz University
       position: Teaching Assistant — Thermodynamics
       date: Fall 2012 and Spring 2013
-  
     - company: Shiraz University
       position: Teaching Assistant — Statics
       date: Spring 2013
-  
     - company: Shiraz
       position: Private Instructor — Physics Olympiad
       date: 2009–2012
-    
     Technical Skills:
     - label: Programming
       details: C++ (CPU/GPU HPC), Python, R
@@ -103,7 +97,6 @@ cv:
       details: Ubuntu, macOS, Windows
     - label: Documentation
       details: LaTeX, Microsoft Office
-
     Research Interests:
     - bullet: 3D genome modeling and chromatin organization
     - bullet: Computational biology and bioinformatics
@@ -111,20 +104,14 @@ cv:
     - bullet: High-performance computing and GPU acceleration
     - bullet: Machine learning for genomic data
     - bullet: Molecular dynamics and finite element modeling
-  
-  
     Honors and Awards:
     - summary: Accepted Talks, UIC Bioinformatics Research Day
       date: 2021, 2022, 2023
-  
     - summary: Merit-Based Admission to MSc Programs at Sharif University of Technology, Shiraz University, and Tehran Polytechnic
       date: 2013
-  
     - summary: Second Highest GPA Among More Than 100 BSc Students, Shiraz University
       date: 2009–2013
-  
     - summary: Fellowship for Gifted Students, Shiraz University
       date: 2009–2013
-  
     - summary: Qualified for First National Stage of Physics Olympiad
       date: 2005–2007
