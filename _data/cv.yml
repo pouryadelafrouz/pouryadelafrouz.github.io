@@ -60,69 +60,130 @@ cv:
       - Collected data from Kubernetes clusters, cloud billing, and GPU allocation/utilization to optimize resource
         management.
     Teaching Experience:
-    - Teaching Assistant — Topological Data Analysis and Advanced Geometry, University of Illinois Chicago (Fall
-      2020, 2021, 2022, 2023); designed assignments and computational problems using CGAL and GUDHI.
-    - Teaching Assistant — Numerical Analysis, Sharif University of Technology (Fall 2015).
-    - Teaching Assistant — Automatic Control, Shiraz University (Spring 2013).
-    - Teaching Assistant — Thermodynamics, Shiraz University (Fall 2012 and Spring 2013).
-    - Teaching Assistant — Statics, Shiraz University (Spring 2013).
-    - Private Instructor — Physics Olympiad, Shiraz (2009–2012).
-    Technical Skills:
-    - 'Programming: C++ (CPU/GPU HPC), Python, R'
-    - 'DevOps: Docker, Kubernetes, Minikube, Flask, Skaffold'
-    - 'Mathematical software: MATLAB, Mathematica, Maple'
-    - 'Visualization: VMD, PyMOL, Plotly, MATLAB, Simulink'
-    - 'Molecular dynamics: LAMMPS, NAMD'
-    - 'Engineering: Inventor, ANSYS'
-    - 'Operating systems: Ubuntu, macOS, Windows'
-    - 'Documentation: LaTeX, Microsoft Office'
-    Research Interests:
-    - 3D genome modeling and chromatin organization
-    - Computational biology and bioinformatics
-    - Statistical modeling and topological data analysis
-    - High-performance computing and GPU acceleration
-    - Machine learning for genomic data
-    - Molecular dynamics and finite element modeling
-    Research Projects:
-    - '3D chromatin modeling: Simulated genome folding using GPU-accelerated Markov chain Monte Carlo in C++; generated
-      heterogeneous single-cell conformations using less than 5% of Hi-C pairwise interactions and achieved over
-      0.9 Pearson correlation with population Hi-C data.'
-    - 'Molecular dynamics: Developed coarse-grained LAMMPS models for gold and silicon nanobeams with less than
-      1% error and up to 10-fold faster computation; modeled fullerene migration on gold.'
-    - 'Finite element modeling: Simulated cell migration and durotaxis; implemented FEM methods in MATLAB.'
-    - 'Geometry and clustering: Developed CGAL mesh generation and chromosome territory analysis; used k-means,
-      HDBSCAN, and persistent homology methods.'
-    - 'Bioinformatics: Analyzed Hi-C, RNA-seq, seq-FISH, and histone modification data to investigate chromatin
-      folding, gene expression, and genome organization.'
-    Honors and Awards:
-    - 2021, 2022, 2023 — Accepted talks, UIC Bioinformatics Research Day
-    - 2013 — Merit-based admission to MSc programs at Sharif University of Technology, Shiraz University, and Tehran
-      Polytechnic
-    - 2009–2013 — Second in GPA among more than 100 BSc students, Shiraz University
-    - 2009–2013 — Fellowship for gifted students, Shiraz University
-    - 2005–2007 — Qualified for first national stage of Physics Olympiad
-    Journal Publications:
-    - 'Delafrouz, P., Farooq, H., Du, L., Ma, A., and Liang, J. (2026). Effects of chromatin-lamina attachment on
-      extra-long-range chromatin interactions. Biophysical Journal. DOI: 10.1016/j.bpj.2026.05.011'
-    - 'Chen, M., Du, L., Zhao, S., Ye, B., Delafrouz, P., et al. (2026). ChromPolymerDB: a high-resolution database
-      of single-cell 3D chromatin structures for functional genomics. Nucleic Acids Research 54(D1), D994–D1004.
-      DOI: 10.1093/nar/gkaf1233'
-    - 'Du, L., Farooq, H., Delafrouz, P., and Liang, J. (2025). Structural basis of differential gene expression
-      at eQTLs loci from high-resolution ensemble models of 3D single-cell chromatin conformations. Bioinformatics
-      41(2), btaf050. DOI: 10.1093/bioinformatics/btaf050'
-    - 'Cheng, Q., Delafrouz, P., Liang, J., Liu, C., and Shen, J. (2022). Modeling and simulation of cell nuclear
-      architecture reorganization process. Journal of Computational Physics 449, 110808. DOI: 10.1016/j.jcp.2021.110808'
-    - 'Nejat Pishkenari, H., and Delafrouz, P. (2020). Modeling vibrational behavior of silicon nanowires using
-      accelerated molecular dynamics simulations. Scientia Iranica 27(2), 819–827. DOI: 10.24200/SCI.2019.50398.1680'
-    - 'Delafrouz, P., and Nejat Pishkenari, H. (2018). Coarse-graining models for molecular dynamics simulations
-      of FCC metals. Journal of Theoretical and Applied Mechanics 56(3), 601–614. DOI: 10.15632/jtam-pl.56.3.601'
-    Preprints and Manuscripts:
-    - 'Delafrouz, P., Zhu, Y., Shi, X., Chen, L., Whetstine, J., Gerhard, G., and Lee, H. Mito3D: population-scale
-      reconstruction of human mitochondrial DNA 3D architecture reveals conformational heterogeneity and cell-type-specific
-      regulatory states. Manuscript in preparation.'
-    - Delafrouz, P., Nesterova, T., Harris, F., Farooq, H., Du, L., Liu, J., Ma, A., Xiao, J., and Liang, J. (2026).
-      Disentangling polymer confinement from specific-folding interactions reveals the drivers of E. coli chromosome
-      organization. bioRxiv.
-    - 'Farooq, H., Du, L., Delafrouz, P., Jiang, W., Chronis, C., and Liang, J. (2024). A New Approach for Discovering
-      Functional Links Connecting Non-Coding Regulatory Variants to Gene Targets. bioRxiv. DOI: 10.1101/2024.06.13.598913'
-    Talks:
+      - title: Teaching Assistant
+        institution: University of Illinois Chicago
+        year: Fall 2020, 2021, 2022, 2023
+        description:
+          - "Topological Data Analysis and Advanced Geometry"
+          - "Designed assignments and computational problems using CGAL and GUDHI."
+    
+      - title: Teaching Assistant
+        institution: Sharif University of Technology
+        year: Fall 2015
+        description:
+          - "Numerical Analysis"
+    
+      - title: Teaching Assistant
+        institution: Shiraz University
+        year: Spring 2013
+        description:
+          - "Automatic Control"
+    
+      - title: Teaching Assistant
+        institution: Shiraz University
+        year: Fall 2012, Spring 2013
+        description:
+          - "Thermodynamics"
+    
+      - title: Teaching Assistant
+        institution: Shiraz University
+        year: Spring 2013
+        description:
+          - "Statics"
+    
+      - title: Private Instructor
+        institution: Shiraz
+        year: 2009–2012
+        description:
+          - "Physics Olympiad"
+    
+Technical Skills:
+  - title: Programming
+    description:
+      - "C++ (CPU/GPU HPC), Python, R"
+
+  - title: DevOps
+    description:
+      - "Docker, Kubernetes, Minikube, Flask, Skaffold"
+
+  - title: Mathematical Software
+    description:
+      - "MATLAB, Mathematica, Maple"
+
+  - title: Visualization
+    description:
+      - "VMD, PyMOL, Plotly, MATLAB, Simulink"
+
+  - title: Molecular Dynamics
+    description:
+      - "LAMMPS, NAMD"
+
+  - title: Engineering
+    description:
+      - "Inventor, ANSYS"
+
+  - title: Operating Systems
+    description:
+      - "Ubuntu, macOS, Windows"
+
+  - title: Documentation
+    description:
+      - "LaTeX, Microsoft Office"
+
+Research Interests:
+  - title: Research Areas
+    description:
+      - "3D genome modeling and chromatin organization"
+      - "Computational biology and bioinformatics"
+      - "Statistical modeling and topological data analysis"
+      - "High-performance computing and GPU acceleration"
+      - "Machine learning for genomic data"
+      - "Molecular dynamics and finite element modeling"
+
+Research Projects:
+  - title: 3D Chromatin Modeling
+    description:
+      - "Simulated genome folding using GPU-accelerated Markov chain Monte Carlo in C++."
+      - "Generated heterogeneous single-cell conformations using less than 5% of Hi-C pairwise interactions."
+      - "Achieved over 0.9 Pearson correlation with population Hi-C data."
+
+  - title: Molecular Dynamics
+    description:
+      - "Developed coarse-grained LAMMPS models for gold and silicon nanobeams."
+      - "Achieved less than 1% error and up to 10-fold faster computation."
+      - "Modeled fullerene migration on gold."
+
+  - title: Finite Element Modeling
+    description:
+      - "Simulated cell migration and durotaxis."
+      - "Implemented FEM methods in MATLAB."
+
+  - title: Geometry and Clustering
+    description:
+      - "Developed CGAL mesh generation and chromosome territory analysis."
+      - "Applied k-means, HDBSCAN, and persistent homology methods."
+
+  - title: Bioinformatics
+    description:
+      - "Analyzed Hi-C, RNA-seq, seq-FISH, and histone modification data."
+      - "Investigated chromatin folding, gene expression, and genome organization."
+
+Honors and Awards:
+  - title: Accepted Talks, UIC Bioinformatics Research Day
+    year: 2021, 2022, 2023
+    institution: University of Illinois Chicago
+
+  - title: Merit-Based Admission to MSc Programs
+    year: 2013
+    institution: Sharif University of Technology, Shiraz University, and Tehran Polytechnic
+
+  - title: Second Highest GPA Among More Than 100 BSc Students
+    year: 2009–2013
+    institution: Shiraz University
+
+  - title: Fellowship for Gifted Students
+    year: 2009–2013
+    institution: Shiraz University
+
+  - title: Qualified for First National Stage of Physics Olympiad
+    year: 2005–2007
