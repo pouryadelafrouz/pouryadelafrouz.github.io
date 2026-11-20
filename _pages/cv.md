@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 published: true
-nav_order: 2
+nav_order: 3
 cv_pdf: /assets/pdf/PouryaDelafrouz_CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description:
