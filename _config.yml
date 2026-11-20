@@ -381,11 +381,13 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  type_order: [article, misc, conference]
+  group_by: type
+  type_order: [article, inproceedings, unpublished, misc]
   type_names:
     article: Journal Articles
-    misc: Posters
-    conference: Oral Presentations
+    inproceedings: Talks
+    unpublished: Posters
+    misc: Archives
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
