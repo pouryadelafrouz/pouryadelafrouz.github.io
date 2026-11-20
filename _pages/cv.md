@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 published: true
 nav_order: 2
 cv_pdf: /assets/pdf/PouryaDelafrouz_CV.pdf # you can also use external links here
