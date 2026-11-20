@@ -58,28 +58,42 @@ cv:
       highlights:
       - Designed interactive tools for reporting resource usage.
       - Collected data from Kubernetes clusters, cloud billing, and GPU allocation/utilization to optimize resource
-        management.
-    Teaching Experience:
+        management.   
     - company: University of Illinois Chicago
       position: Teaching Assistant — Topological Data Analysis and Advanced Geometry
-      date: Fall 2020, 2021, 2022, 2023
+      start_date: '2020'
+      end_date: '2023'
+      location: Chicago, IL
       highlights:
       - Designed assignments and computational problems using CGAL and GUDHI.
+      - Served as a teaching assistant in Fall 2020, 2021, 2022, and 2023
     - company: Sharif University of Technology
       position: Teaching Assistant — Numerical Analysis
-      date: Fall 2015
+      start_date: '2015'
+      end_date: '2015'
+      location: Tehran, Iran
     - company: Shiraz University
       position: Teaching Assistant — Automatic Control
-      date: Spring 2013
+      start_date: '2013'
+      end_date: '2013'
+      location: Shiraz, Iran
     - company: Shiraz University
       position: Teaching Assistant — Thermodynamics
-      date: Fall 2012 and Spring 2013
+      start_date: '2012'
+      end_date: '2013'
+      location: Shiraz, Iran
+      highlights:
+      - Fall 2012 and Spring 2013.
     - company: Shiraz University
       position: Teaching Assistant — Statics
-      date: Spring 2013
-    - company: Shiraz
-      position: Private Instructor — Physics Olympiad
-      date: 2009–2012
+      start_date: '2013'
+      end_date: '2013'
+      location: Shiraz, Iran
+    - company: Private Instruction
+      position: Physics Olympiad Instructor
+      start_date: '2009'
+      end_date: '2012'
+      location: Shiraz, Iran
     Technical Skills:
     - label: Programming
       details: C++ (CPU/GPU HPC), Python, R
