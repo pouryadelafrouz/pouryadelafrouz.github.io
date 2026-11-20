@@ -1,189 +1,128 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  name: Pourya Delafrouz
+  label: Postdoctoral Researcher
+  location: Philadelphia, PA
+  summary: Postdoctoral researcher with a PhD in Bioinformatics and expertise in chromatin folding simulations,
+    statistical analysis of biological experiments, topological data analysis, and high-performance computational
+    modeling.
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+    - institution: University of Illinois Chicago
+      area: Bioinformatics
+      degree: PhD
+      start_date: '2018'
+      end_date: '2025'
+      location: Chicago, IL
+      highlights:
+      - 'GPA: 3.96/4.0'
+      - 'Thesis: Modeling Genome Organization in Eukaryotic and Prokaryotic Cells Using Specific Fold Interactions'
+      - Defended September 30, 2025
+    - institution: Sharif University of Technology
+      area: Mechanical Engineering
+      degree: MSc
+      start_date: '2013'
+      end_date: '2016'
+      location: Tehran, Iran
+      highlights:
+      - 'GPA: 18.40/20'
+    - institution: Shiraz University
+      area: Mechanical Engineering
+      degree: BSc
+      start_date: '2009'
+      end_date: '2013'
+      location: Shiraz, Iran
+      highlights:
+      - 'GPA: 18.08/20'
+      - Ranked second among more than 100 BSc students
+    - institution: National Organization for Development of Exceptional Talents
+      area: High School Diploma
+      start_date: '2005'
+      end_date: '2008'
+      location: Shiraz, Iran
+      highlights:
+      - 'GPA: 18.76/20'
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - company: Fox Chase Cancer Center
+      position: Postdoctoral Associate
+      start_date: '2025'
+      end_date: present
+      location: Philadelphia, PA
+      highlights:
+      - Developed computational models of 3D genome organization using polymer simulations and Bayesian inference.
+      - Implemented high-performance simulation and analysis pipelines in C++ and Python with GPU acceleration.
+    - company: CCC Intelligent Solutions
+      position: AI Enablement Intern
+      start_date: 2022-06
+      end_date: 2022-08
+      location: Chicago, IL
+      highlights:
+      - Designed interactive tools for reporting resource usage.
+      - Collected data from Kubernetes clusters, cloud billing, and GPU allocation/utilization to optimize resource
+        management.
+    Teaching Experience:
+    - Teaching Assistant — Topological Data Analysis and Advanced Geometry, University of Illinois Chicago (Fall
+      2020, 2021, 2022, 2023); designed assignments and computational problems using CGAL and GUDHI.
+    - Teaching Assistant — Numerical Analysis, Sharif University of Technology (Fall 2015).
+    - Teaching Assistant — Automatic Control, Shiraz University (Spring 2013).
+    - Teaching Assistant — Thermodynamics, Shiraz University (Fall 2012 and Spring 2013).
+    - Teaching Assistant — Statics, Shiraz University (Spring 2013).
+    - Private Instructor — Physics Olympiad, Shiraz (2009–2012).
+    Technical Skills:
+    - 'Programming: C++ (CPU/GPU HPC), Python, R'
+    - 'DevOps: Docker, Kubernetes, Minikube, Flask, Skaffold'
+    - 'Mathematical software: MATLAB, Mathematica, Maple'
+    - 'Visualization: VMD, PyMOL, Plotly, MATLAB, Simulink'
+    - 'Molecular dynamics: LAMMPS, NAMD'
+    - 'Engineering: Inventor, ANSYS'
+    - 'Operating systems: Ubuntu, macOS, Windows'
+    - 'Documentation: LaTeX, Microsoft Office'
+    Research Interests:
+    - 3D genome modeling and chromatin organization
+    - Computational biology and bioinformatics
+    - Statistical modeling and topological data analysis
+    - High-performance computing and GPU acceleration
+    - Machine learning for genomic data
+    - Molecular dynamics and finite element modeling
+    Research Projects:
+    - '3D chromatin modeling: Simulated genome folding using GPU-accelerated Markov chain Monte Carlo in C++; generated
+      heterogeneous single-cell conformations using less than 5% of Hi-C pairwise interactions and achieved over
+      0.9 Pearson correlation with population Hi-C data.'
+    - 'Molecular dynamics: Developed coarse-grained LAMMPS models for gold and silicon nanobeams with less than
+      1% error and up to 10-fold faster computation; modeled fullerene migration on gold.'
+    - 'Finite element modeling: Simulated cell migration and durotaxis; implemented FEM methods in MATLAB.'
+    - 'Geometry and clustering: Developed CGAL mesh generation and chromosome territory analysis; used k-means,
+      HDBSCAN, and persistent homology methods.'
+    - 'Bioinformatics: Analyzed Hi-C, RNA-seq, seq-FISH, and histone modification data to investigate chromatin
+      folding, gene expression, and genome organization.'
+    Honors and Awards:
+    - 2021, 2022, 2023 — Accepted talks, UIC Bioinformatics Research Day
+    - 2013 — Merit-based admission to MSc programs at Sharif University of Technology, Shiraz University, and Tehran
+      Polytechnic
+    - 2009–2013 — Second in GPA among more than 100 BSc students, Shiraz University
+    - 2009–2013 — Fellowship for gifted students, Shiraz University
+    - 2005–2007 — Qualified for first national stage of Physics Olympiad
+    Journal Publications:
+    - 'Delafrouz, P., Farooq, H., Du, L., Ma, A., and Liang, J. (2026). Effects of chromatin-lamina attachment on
+      extra-long-range chromatin interactions. Biophysical Journal. DOI: 10.1016/j.bpj.2026.05.011'
+    - 'Chen, M., Du, L., Zhao, S., Ye, B., Delafrouz, P., et al. (2026). ChromPolymerDB: a high-resolution database
+      of single-cell 3D chromatin structures for functional genomics. Nucleic Acids Research 54(D1), D994–D1004.
+      DOI: 10.1093/nar/gkaf1233'
+    - 'Du, L., Farooq, H., Delafrouz, P., and Liang, J. (2025). Structural basis of differential gene expression
+      at eQTLs loci from high-resolution ensemble models of 3D single-cell chromatin conformations. Bioinformatics
+      41(2), btaf050. DOI: 10.1093/bioinformatics/btaf050'
+    - 'Cheng, Q., Delafrouz, P., Liang, J., Liu, C., and Shen, J. (2022). Modeling and simulation of cell nuclear
+      architecture reorganization process. Journal of Computational Physics 449, 110808. DOI: 10.1016/j.jcp.2021.110808'
+    - 'Nejat Pishkenari, H., and Delafrouz, P. (2020). Modeling vibrational behavior of silicon nanowires using
+      accelerated molecular dynamics simulations. Scientia Iranica 27(2), 819–827. DOI: 10.24200/SCI.2019.50398.1680'
+    - 'Delafrouz, P., and Nejat Pishkenari, H. (2018). Coarse-graining models for molecular dynamics simulations
+      of FCC metals. Journal of Theoretical and Applied Mechanics 56(3), 601–614. DOI: 10.15632/jtam-pl.56.3.601'
+    Preprints and Manuscripts:
+    - 'Delafrouz, P., Zhu, Y., Shi, X., Chen, L., Whetstine, J., Gerhard, G., and Lee, H. Mito3D: population-scale
+      reconstruction of human mitochondrial DNA 3D architecture reveals conformational heterogeneity and cell-type-specific
+      regulatory states. Manuscript in preparation.'
+    - Delafrouz, P., Nesterova, T., Harris, F., Farooq, H., Du, L., Liu, J., Ma, A., Xiao, J., and Liang, J. (2026).
+      Disentangling polymer confinement from specific-folding interactions reveals the drivers of E. coli chromosome
+      organization. bioRxiv.
+    - 'Farooq, H., Du, L., Delafrouz, P., Jiang, W., Chronis, C., and Liang, J. (2024). A New Approach for Discovering
+      Functional Links Connecting Non-Coding Regulatory Variants to Gene Targets. bioRxiv. DOI: 10.1101/2024.06.13.598913'
+    Talks:
