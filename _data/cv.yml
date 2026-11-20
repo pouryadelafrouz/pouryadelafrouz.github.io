@@ -64,7 +64,7 @@ cv:
       position: Teaching Assistant — Topological Data Analysis and Advanced Geometry
       date: Fall 2020, 2021, 2022, 2023
       highlights:
-        - Designed assignments and computational problems using CGAL and GUDHI.
+      - Designed assignments and computational problems using CGAL and GUDHI.
   
     - company: Sharif University of Technology
       position: Teaching Assistant — Numerical Analysis
@@ -114,21 +114,17 @@ cv:
   
   
     Honors and Awards:
-    - name: Accepted Talks, UIC Bioinformatics Research Day
+    - summary: Accepted Talks, UIC Bioinformatics Research Day
       date: 2021, 2022, 2023
-      summary: University of Illinois Chicago
   
-    - name: Merit-Based Admission to MSc Programs
+    - summary: Merit-Based Admission to MSc Programs at Sharif University of Technology, Shiraz University, and Tehran Polytechnic
       date: 2013
-      summary: Sharif University of Technology, Shiraz University, and Tehran Polytechnic
   
-    - name: Second Highest GPA Among More Than 100 BSc Students
+    - summary: Second Highest GPA Among More Than 100 BSc Students, Shiraz University
       date: 2009–2013
-      summary: Shiraz University
   
-    - name: Fellowship for Gifted Students
+    - summary: Fellowship for Gifted Students, Shiraz University
       date: 2009–2013
-      summary: Shiraz University
   
-    - name: Qualified for First National Stage of Physics Olympiad
+    - summary: Qualified for First National Stage of Physics Olympiad
       date: 2005–2007
