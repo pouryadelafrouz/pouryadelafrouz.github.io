@@ -58,7 +58,8 @@ cv:
       highlights:
       - Designed interactive tools for reporting resource usage.
       - Collected data from Kubernetes clusters, cloud billing, and GPU allocation/utilization to optimize resource
-        management.   
+        management.
+    Teaching:
     - company: University of Illinois Chicago
       position: Teaching Assistant — Topological Data Analysis and Advanced Geometry
       start_date: '2020'
